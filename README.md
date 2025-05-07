@@ -1,63 +1,100 @@
-# Resumo-do-lab
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
+📘 Resumo do Lab - Formação AZ-900
+Este repositório contém um resumo das lições aprendidas durante o desenvolvimento do laboratório da formação AZ-900 da Microsoft, ministrada pela professora Valéria Batista, na DIO (Digital Innovation One).
 
+🎯 Objetivos do Curso
+A formação AZ-900 tem como foco nivelar o conhecimento em computação em nuvem para iniciantes, abordando:
 
-Formação AZ900 da Microsoft professora Valéria batista
-Conteúdo do curso: Computação na nuvem, benefícios da nuvem  e tipos de serviço da nuvem.
-Objetivos do curso ,Conceitos da Azure , principais serviços da azure, principais soluções e ferramentas de gerenciamento segurança geral e segurança da rede, governança, privacidade e recursos de conformidade e gerenciamento  de custos da Azure.
-Aprova da az900 é excelente pra nivelar o seu conhecimento de cloud  de uma forma geral, a cloud nada mais é que um data Center que foi virtualizado
-Mesmo tirando a certificação ,nós programadores temos que nos manter atualizados , porque sempre estará surgindo novidades, funcionalidades  na cloud, 
-Computação na nuvem:  o que é computação em nuvem
-A computação em nuvem é o fornecimento de serviços de computação pela internet, habilitando inovações mais rápidas, recursos flexíveis e economia de escalas.
-Temos 3 modelos de nuvem:
-Nuvem privada, ele é usado somente para a minha empresa, as organizações criam um ambiente em nuvem em seu data Center,
-As organizações são responsáveis por operar os serviços que fornecem
-Não fornece acesso aos usuários fora da organização
+Conceitos fundamentais da nuvem
 
-Nuvem privada
- Na nuvem privada a responsabilidade é toda minha
- As organizações têm controle total sobre os recursos 
-e a segurança. 
-As organizações são responsáveis pela manutenção e pelas atualizações de hardware
+Benefícios da computação em nuvem
 
-Nuvem publica
- comparação de modelos da nuvem...nuvem publica
- Nenhuma despesa de capital para escalar verticalmente
-OS aplicativos podem ser provisionados e desprovisionados rapidamente
-as organizações pagam apenas pelo que utilizam
-Pertencente a serviços de nuvem ou provedor de hosting
-Fornece recursos e serviços a varias organizações e usuários
-Acessada via conexão de rede segura geralmente pela internet
+Modelos e tipos de serviço na nuvem
 
-Nuvem hibrida é o melhor dos dois mundos usa os dois modelos,
-Ela combina nuvens publicas e privadas para permitir que os aplicativos sejam executados no local mais adequado
-As organizações determinam onde executar seus aplicativos.
-As organizações controlam a segurança, a conformidade 
-e os requisitos legais.
-Fornece a maior flexibilidade
-você pode criar recursos no mundo todo
-na nuvem hibrida você tem o melhor dos dois mundos
+Principais serviços e soluções do Azure
 
-E tem um quarto modelo, o multcloud que é quando ela usa mais de uma cloud
+Segurança geral e de rede
 
-Responsabilidade compartilhada
-Modelos de nuvem
-Custo de capital versus custo operacional
-No curso também foi ensinado a abrir uma conta gratuita na Azure
+Governança e privacidade
 
-Para saber os custos tem a calculadora da azure e pagamos somente aquilo que usamos
-Despesas de capital capex e opex
-O gasto inicial de dinheiro em infra-instrutora física.
-As despesas do CapEx têm um valor que se reduz com o tempo.
-Dispesas operacionais Opex
- Gastar com produtos e serviços conforme necessário, pagamento conforme o uso. 
-Seja cobrado imediatamente.
-vou pagar conforme o uso mas estarei sempre pagando
-Modelo baseado pelo consumo...
-Os provedores de serviços em nuvem operam em um modelo baseado no consumo,  o que significa que os usuários finais pagam somente pelos recursos que usam.
+Conformidade e gerenciamento de custos
 
-Melhor previsão de custos.
-São fornecidos preços para recursos e serviços individuais.
-A cobrança é feita com base no seu uso real.
-Um comparativo , seria similar as contas de energia ou água, conforme você usa , você paga.
-Os recursos dentro na Azure que estão descritos como "VERSÃO PREVIA" estao sendo testado e não há garantia de que vão continuar ali, então tem que tomar cuidado ao usa-los.
+💡 A certificação AZ-900 é uma excelente porta de entrada para o universo da computação em nuvem.
+
+☁️ O Que é Computação em Nuvem?
+A computação em nuvem é a entrega de serviços de computação pela internet, permitindo:
+
+Inovação mais rápida
+
+Recursos flexíveis sob demanda
+
+Redução de custos com economia de escala
+
+🧱 Modelos de Implantação na Nuvem
+🔒 Nuvem Privada
+Usada exclusivamente por uma organização.
+
+Controlada e mantida internamente.
+
+Maior controle sobre segurança e recursos.
+
+Toda a responsabilidade recai sobre a organização.
+
+🌐 Nuvem Pública
+Recursos oferecidos por um provedor de nuvem (como a Microsoft).
+
+Sem necessidade de infraestrutura própria.
+
+Escalável sob demanda.
+
+Modelo pague pelo que usar.
+
+🔁 Nuvem Híbrida
+Combina nuvem pública e privada.
+
+Flexibilidade para executar apps no ambiente mais adequado.
+
+Melhor controle de conformidade e segurança.
+
+Ideal para empresas com requisitos legais ou técnicos específicos.
+
+🧩 Multicloud (Modelo Extra)
+Uso de múltiplos provedores de nuvem simultaneamente.
+
+Ajuda a evitar dependência de um único fornecedor.
+
+Maior flexibilidade e tolerância a falhas.
+
+🤝 Responsabilidade Compartilhada
+Na nuvem, a responsabilidade pela segurança e manutenção é compartilhada:
+
+Provedor (Azure): garante a infraestrutura, datacenters, rede e hardware.
+
+Cliente: gerencia dados, identidade, aplicações e configurações.
+
+💰 Custos: CapEx vs OpEx
+Tipo de Despesa	Característica
+CapEx (Capital)	Investimento inicial em infraestrutura física (servidores, datacenters).
+OpEx (Operacional)	Gasto contínuo com produtos e serviços sob demanda. Modelo "pay-as-you-go".
+
+💵 O modelo baseado em consumo permite prever custos com mais precisão.
+
+🧮 A calculadora de preços do Azure ajuda a estimar o custo real dos recursos utilizados.
+
+📉 Recursos em versão prévia podem ser descontinuados, então use com cautela.
+
+Exemplo: funciona como uma conta de energia — você paga conforme o uso.
+
+🧪 Atividades Realizadas no Lab
+Criação de uma conta gratuita no Azure
+
+Exploração dos modelos de nuvem
+
+Avaliação de serviços e ferramentas disponíveis
+
+Prática com o modelo de responsabilidade compartilhada
+
+Discussão sobre governança e conformidade
+
+🔄 Considerações Finais
+Mesmo após conquistar a certificação AZ-900, é essencial manter-se atualizado, pois a nuvem está em constante evolução com novas funcionalidades, serviços e práticas.
+
